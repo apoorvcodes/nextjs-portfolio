@@ -7,8 +7,8 @@ import {SiExpress, SiMongodb, SiTypescript} from "react-icons/si"
 const BackendCard = () => {
 	const tags= {'start': '<Backend>' , 'end' : "</backend>"}
 	return (
-		<div className="container mx-auto pt-12">
-		<div className="flex justify-end space-x-24">
+		<div className="container mx-auto pt-16">
+		<div className="flex flex-col-reverse items-center md:flex-row  md:space-x-24 md:justify-end">
                 <div className="flex flex-col justify-center">
 		<div className="text-2xl text-gry font-brd pb-1">{tags.start}</div>
 		 <div className="text-7xl text-cream font-sora"> Back<span className="text-prime">end</span></div>

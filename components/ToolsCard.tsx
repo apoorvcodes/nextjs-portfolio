@@ -7,8 +7,8 @@ const ToolsCard = () => {
 	const tags= {'start': '<Tools>' , 'end' : "</tools>"}
 	return (
 	
-			<div className="container mx-auto pt-12">
-		<div className="flex  space-x-24">
+			<div className="container mx-auto pt-16">
+		<div className="flex flex-col items-center md:flex-row  md:space-x-24 md:justify-start">
                  <Image src={tools}/>
 		 <div className="flex flex-col justify-center">
 		 <div className="text-2xl text-gry font-brd pb-1">{tags.start}</div>
