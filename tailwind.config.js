@@ -6,13 +6,17 @@ module.exports = {
       fontFamily: {
         sora: [ "Sora", 'sans'],
         pops: ['Poppins', 'sans'],
-        robo :[ 'Roboto', 'sans-serif'],
-        brd: [ 'Birthstone Bounce', 'cursive']
+        brd: [ 'Birthstone', 'cursive']
       },
       colors: {
-      "cyan": "#00f5d4",
-      "space": "#001d3d",
-      "lcyan": "#90e0ef"
+      'mainbg': "#000814",
+      'prime': "#FD0F49",
+      "cream": "#DBE9EE",
+      "secondry": "#BD113D",
+      "gry" : "#808080"
+      },
+      fontSize: {
+        "12xl": '10rem'
       }
     },
   },
