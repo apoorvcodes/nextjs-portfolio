@@ -4,7 +4,7 @@ import frontend from "../assets/frontend.svg"
 import {DiReact} from "react-icons/di"
 import {SiNextdotjs} from "react-icons/si"
 import {FaVuejs} from "react-icons/fa"
-import {SiNuxtdotjs} from "react-icons/si"
+import {SiTailwindcss} from "react-icons/si"
 export const FrontendCard:FC = () => {
 	const tags= {'start': '<Frontend>' , 'end' : "</frontend>"}
 	return (
@@ -18,7 +18,7 @@ export const FrontendCard:FC = () => {
 		<DiReact className="text-cream hover:text-prime"/>
 		<SiNextdotjs className="text-cream hover:text-prime"/>
 		<FaVuejs className="text-cream hover:text-prime"/>
-		<SiNuxtdotjs className="text-cream hover:text-prime"/>
+		<SiTailwindcss className="text-cream hover:text-prime"/>
 		</div>
 		<div className="text-2xl text-gry font-brd pb-1">{tags.end}</div>
 		 </div>

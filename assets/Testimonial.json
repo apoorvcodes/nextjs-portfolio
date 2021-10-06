@@ -1,15 +1,21 @@
 {
 	"testimonials": [
 	{
-	  "review": "apoo is an amazing full stack developer! We have worked on a few websites together and he has taught me alot of things. He is a very fast learner as well. He is a kind of a person that can teach you new things everyday! I love working with him.",
+	  "review": "Apoorv is an amazing full stack developer! We have worked on a few websites together and he has taught me alot of things. He is a very fast learner as well. He is a kind of a person that can teach you new things everyday! I love working with him.",
 	  "name": "Harsh",
 	  "post": "Co-worker"
 	},
 	{
-	"review": "apoorv is a really nice guy hanging out with, he provided a lot of information to me while learning and made it eaiser to understand.He taught me many things related to JavaScript till now and a lot of external information which was beneficial for me. Well overall he's a really cool teacher/friend.",
-	"name": "Sanmitra",
-	"post": "Student"
+	"review" : "In the time Totu (Apoorv) has been in Brainy, the one quality about him that really stood out is his inquisitive nature. He is always willing to learn and push his skills to the next level, while helping others in the process.",
+	"name" : "Basnathan",
+	"post" : "Founder, Brainy Bunch"
+	},
+	{
+	"review" : "Apoorv is a really nice guy hanging out with, he provided a lot of information to me while learning and made it eaiser to understand.He taught me many things related to JavaScript till now and a lot of external information which was beneficial for me.",
+	"name" : "Sanmitra",
+	"post" : "Student"
 	}
+		
       
 ]
 }

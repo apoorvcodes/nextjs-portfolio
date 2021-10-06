@@ -14,11 +14,11 @@ const Skills:FC = () => {
          <div className="flex justify-center font-semibold w-56 md:w-64 h-2 bg-prime"></div>	
 
           </div>
-	  <div className="text-2xl text-gry font-brd pb-1 pl-1">{tags.start}</div>
+	  <div className="text-3xl text-gry font-brd pb-1 pl-3">{tags.start}</div>
 	  <FrontendCard/>
 	  <BackendCard/>
 	  <ToolsCard/>
-	  <div className="text-2xl text-gry font-brd pb-1 pl-1">{tags.end}</div>
+	  <div className="text-3xl text-gry font-brd pb-1 pl-3">{tags.end}</div>
 	  </div>
 	)
 }
