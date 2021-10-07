@@ -5,6 +5,7 @@ import Navbar from '../components/Navbar/Navbar'
 import Skills from '../components/Skills';
 import Testimonial from '../components/Testimonial';
 import Toggleup from '../components/Toggleup';
+import Contact from '../components/Contact';
 
 const Home: NextPage = () => {
   return (
@@ -17,6 +18,7 @@ const Home: NextPage = () => {
       <Aboutme/>
       <Skills/>
        <Testimonial/>
+       <Contact/>
     </div>
   )
 }

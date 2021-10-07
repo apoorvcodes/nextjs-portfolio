@@ -11,7 +11,7 @@ const Reviews:FC = () => {
 	<div className="grid grid-rows-1 p-8 md:p-12 gap-8 ">
 	{array.testimonials.map((value, index) => {
 	return (
-	<div className="reviews container mx-auto"> 
+	<div key={index} className="reviews container mx-auto"> 
 		
 
 	<div key={index} className="rounded-lg text-cream text-2xl md:text-3xl ring ring-gry py-4 px-4">
