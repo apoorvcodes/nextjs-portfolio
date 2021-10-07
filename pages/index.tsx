@@ -6,7 +6,7 @@ import Skills from '../components/Skills';
 import Testimonial from '../components/Testimonial';
 import Toggleup from '../components/Toggleup';
 import Contact from '../components/Contact';
-
+import Footer from '../components/Footer';
 const Home: NextPage = () => {
   return (
 
@@ -19,6 +19,7 @@ const Home: NextPage = () => {
       <Skills/>
        <Testimonial/>
        <Contact/>
+       <Footer/>
     </div>
   )
 }
