@@ -1,7 +1,7 @@
 import type { NextPage } from 'next'
 import Aboutme from '../components/Aboutme'
 import Hero from '../components/Hero'
-import Navbar from '../components/Navbar/Navbar'
+import Nav from '../components/Nav'
 import Skills from '../components/Skills';
 import Testimonial from '../components/Testimonial';
 import Toggleup from '../components/Toggleup';
@@ -12,7 +12,7 @@ const Home: NextPage = () => {
 
     <div className="min-h-screen min-w-screen bg-mainbg">
        <Toggleup/>
-       <Navbar/>
+       <Nav/>
     
        <Hero />
       <Aboutme/>
