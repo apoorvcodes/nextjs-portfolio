@@ -1,5 +1,5 @@
 import {FC} from 'react'
-import array from "../assets/Testimonial.json"
+import array from "../assets/data.json"
 
 const Reviews:FC = () => {
 	const tags= {
