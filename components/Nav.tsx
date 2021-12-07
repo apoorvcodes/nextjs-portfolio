@@ -7,7 +7,7 @@ const Nav = () => {
 	const toggle = () => {setOpen(!Open)}
 	return (
 		<div className='container mx-auto'>
-		 <div className="flex justify-between pt-8 pl-8 pr-8 pb-10 md:pb-2">
+		 <div className="flex justify-between pt-4 md:pt-8 pl-8 pr-8 pb-10 md:pb-2">
 		<div className="text-4xl md:text-5xl text-cream font-semibold">Portfo<span className='text-prime font-bold'>lio</span></div>
 		<div className="text-cream " onClick={()=> toggle()}><Hamburger size={34} color="#FD0F49"/></div>
 		</div>
