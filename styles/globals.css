@@ -1,14 +1,11 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Sora:wght@500&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Birthstone&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sora:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Birthstone&display=swap");
 @tailwind base;
 
 @tailwind components;
 
 @tailwind utilities;
-
-
 
 body::-webkit-scrollbar,
 .hidescrollbar::-webkit-scrollbar {
@@ -16,7 +13,7 @@ body::-webkit-scrollbar,
 }
 
 body::-webkit-scrollbar-thumb {
-  background-color: #FD0F49;
+  background-color: #fd0f49;
   border: 4px solid var();
   border-radius: 12px;
 }
@@ -25,5 +22,3 @@ body::-webkit-scrollbar-track,
 .hidescrollbar::-webkit-scrollbar-track {
   background: #000814 !important;
 }
-
-

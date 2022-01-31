@@ -1,22 +1,19 @@
 {
-	"testimonials": [
-		{
-			"review": "While every human is imperfect, Apoorv is trying his best to achieve perfection. He constantly perseveres to achieve more, his thirst for success is unquenchable. Give him a keyboard and a monitor and he can build you an entire world.",
-			"name" : "Veerpal Shah",
-			"post" : "Mentor"
-			},
-			{
-				"review" : "In the time Totu (Apoorv) has been in Brainy, the one quality about him that really stood out is his inquisitive nature. He is always willing to learn and push his skills to the next level, while helping others in the process.",
-				"name" : "Basanth",
-				"post" : "Founder, Brainy Bunch"
-				},
-	{
-	  "review": "Apoorv is an amazing full stack developer! We have worked on a few websites together and he has taught me alot of things. He is a very fast learner as well. He is a kind of a person that can teach you new things everyday! I love working with him.",
-	  "name": "Harsh",
-	  "post": "Co-worker"
-	}
-		
-      
-]
+  "testimonials": [
+    {
+      "review": "While every human is imperfect, Apoorv is trying his best to achieve perfection. He constantly perseveres to achieve more, his thirst for success is unquenchable. Give him a keyboard and a monitor and he can build you an entire world.",
+      "name": "Veerpal Shah",
+      "post": "Mentor"
+    },
+    {
+      "review": "In the time Totu (Apoorv) has been in Brainy, the one quality about him that really stood out is his inquisitive nature. He is always willing to learn and push his skills to the next level, while helping others in the process.",
+      "name": "Basanth",
+      "post": "Founder, Brainy Bunch"
+    },
+    {
+      "review": "Apoorv is an amazing full stack developer! We have worked on a few websites together and he has taught me alot of things. He is a very fast learner as well. He is a kind of a person that can teach you new things everyday! I love working with him.",
+      "name": "Harsh",
+      "post": "Co-worker"
+    }
+  ]
 }
-
