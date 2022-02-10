@@ -40,7 +40,7 @@ const Contact: FC = () => {
       <div className="flex flex-row-reverse justify-center my-6 pt-6">
         <div className="w-full xl:w-3/4 lg:w-11/12 flex">
           <div className="w-full h-auto hidden lg:block lg:w-1/2 bg-cover rounded-l-lg">
-            <Image src={email} width={700} />
+            <Image src={email} width={700} alt="contact" />
           </div>
 
           <div className="w-full lg:w-1/2 p-5 rounded-lg lg:rounded-l-none">
@@ -50,7 +50,7 @@ const Contact: FC = () => {
               </h3>
               <p className="mb-4 text-sm text-gray-300">
                 We get it, you want some talks. Just enter your email address
-                and message below and I'l talk to you!
+                and message below and I will talk to you!
               </p>
             </div>
             <form

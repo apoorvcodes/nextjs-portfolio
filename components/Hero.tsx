@@ -20,7 +20,7 @@ const Hero = () => {
             Hi,
           </div>
           <div className="text-4xl md:text-7xl sm:text-5xl font-bold text-cream font-sora">
-            I'm <span className="text-prime">Apoorv</span>
+            I am <span className="text-prime">Apoorv</span>
           </div>
           <div className="text-4xl md:text-7xl  sm:text-5xl font-bold text-cream font-sora">
             a web developer
@@ -33,7 +33,7 @@ const Hero = () => {
           </div>
         </div>
         <div>
-          <Image src={Blogging} className="w-2/3" />
+          <Image src={Blogging} className="w-2/3" alt="blog"/>
         </div>
       </div>
       <div
