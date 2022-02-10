@@ -22,7 +22,7 @@ const Aboutme = () => {
 
         <div className="flex flex-col  text-3xl text-cream p-6 md:pl-1">
           <div className="text-2xl text-gry font-brd pb-1">{tags.start}</div>
-          <h1 className="text-5xl font-bold font-sans">Hi, I'am</h1>
+          <h1 className="text-5xl font-bold font-sans">Hi, I am</h1>
           <h1 className="text-6xl font-bold  font-sora pb-2 text-prime">
             Apoorv
           </h1>
