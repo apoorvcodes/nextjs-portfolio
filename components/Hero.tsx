@@ -1,4 +1,4 @@
-import Blogging from "../assets/Blogging.svg";
+import Blogging from "../assets/blogging.svg";
 import React from "react";
 import Image from "next/image";
 import { BsMouse } from "react-icons/bs";

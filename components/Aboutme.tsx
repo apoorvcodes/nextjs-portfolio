@@ -1,6 +1,5 @@
 import React from "react";
 import Image from "next/image";
-import py from "../assets/py.svg";
 import abt from "../assets/abt.svg";
 const Aboutme = () => {
   const tags = {
